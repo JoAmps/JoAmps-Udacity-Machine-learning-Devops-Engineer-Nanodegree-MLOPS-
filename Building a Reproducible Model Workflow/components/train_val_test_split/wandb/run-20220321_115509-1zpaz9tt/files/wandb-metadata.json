@@ -1,0 +1,29 @@
+{
+    "os": "macOS-12.0.1-arm64-arm-64bit",
+    "python": "3.9.10",
+    "heartbeatAt": "2022-03-21T11:55:12.708011",
+    "startedAt": "2022-03-21T11:55:09.367869",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "clean_sample.csv:latest",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group"
+    ],
+    "state": "running",
+    "program": "/Users/hyacinthampadu/Documents/NEW_project_2/nd0821-c2-build-model-workflow-starter/components/train_val_test_split/run.py",
+    "codePath": "components/train_val_test_split/run.py",
+    "git": {
+        "remote": "https://github.com/JoAmps/nd0821-c2-build-model-workflow-starter.git",
+        "commit": "b3915cb7e5566da473bc3c812c4d7d49c89bfd8d"
+    },
+    "email": "ampaduh@gmail.com",
+    "root": "/Users/hyacinthampadu/Documents/NEW_project_2/nd0821-c2-build-model-workflow-starter",
+    "host": "Hyacinths-MacBook-Air.local",
+    "username": "hyacinthampadu",
+    "executable": "/Users/hyacinthampadu/miniforge3/envs/mlflow-799149648c802a9369f9bb37e6dbac445f370320/bin/python"
+}
