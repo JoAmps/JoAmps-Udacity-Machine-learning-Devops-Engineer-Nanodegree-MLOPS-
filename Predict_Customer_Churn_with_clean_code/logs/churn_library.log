@@ -1,0 +1,7 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing EDA data:SUCCESS
+root - INFO - SUCCESS:mean categorical of churn performed
+root - INFO - SUCCESS:Data succesfully split into training and testing
+root - INFO - SUCESS:Models trained Succesfully
+root - INFO - SUCCESS: best estimators and predictions obtained sucessfuly
+root - INFO - SUCCESS: Code successfully run

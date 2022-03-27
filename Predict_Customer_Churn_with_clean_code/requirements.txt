@@ -1,0 +1,7 @@
+shap==0.40.0
+joblib==1.0.1
+pandas==1.4.0
+numpy==1.21.4
+matplotlib
+seaborn==0.11.2
+sklearn
