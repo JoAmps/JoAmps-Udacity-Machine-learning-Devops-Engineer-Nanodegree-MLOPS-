@@ -1,0 +1,4 @@
+2022-03-21 10:48:03,396 Dataset price outliers removal outside range: 10-350
+2022-03-21 10:48:03,403 Dataset last_review data type fix
+2022-03-21 10:48:03,523 Temporary artifact saved to /var/folders/b6/cwdf1l0x4rs4pv03tq2z5dy80000gn/T/tmpp3g0dktt/clean_sample.csv
+2022-03-21 10:48:14,556 Cleaned dataset uploaded to wandb
