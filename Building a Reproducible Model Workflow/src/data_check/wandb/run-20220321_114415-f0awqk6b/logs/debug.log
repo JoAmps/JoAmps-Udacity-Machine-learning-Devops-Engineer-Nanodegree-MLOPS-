@@ -1,0 +1,83 @@
+2022-03-21 11:44:15,822 INFO    MainThread:34453 [wandb_setup.py:_flush():69] setting env: {'project': 'nyc_airbnb', 'run_group': 'development'}
+2022-03-21 11:44:15,823 WARNING MainThread:34453 [wandb_setup.py:_flush():69] could not save program above cwd: /Users/hyacinthampadu/miniforge3/envs/mlflow-d1fd4b13aac386abe6aa5a2ada1ca11214902ce4/bin/pytest
+2022-03-21 11:44:15,823 INFO    MainThread:34453 [wandb_setup.py:_flush():69] setting login settings: {}
+2022-03-21 11:44:15,823 INFO    MainThread:34453 [wandb_init.py:_log_setup():334] Logging user logs to /Users/hyacinthampadu/Documents/NEW_project_2/nd0821-c2-build-model-workflow-starter/src/data_check/wandb/run-20220321_114415-f0awqk6b/logs/debug.log
+2022-03-21 11:44:15,823 INFO    MainThread:34453 [wandb_init.py:_log_setup():335] Logging internal logs to /Users/hyacinthampadu/Documents/NEW_project_2/nd0821-c2-build-model-workflow-starter/src/data_check/wandb/run-20220321_114415-f0awqk6b/logs/debug-internal.log
+2022-03-21 11:44:15,824 INFO    MainThread:34453 [wandb_init.py:init():367] calling init triggers
+2022-03-21 11:44:15,824 INFO    MainThread:34453 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2022-03-21 11:44:15,825 INFO    MainThread:34453 [wandb_init.py:init():416] starting backend
+2022-03-21 11:44:15,825 INFO    MainThread:34453 [backend.py:_multiprocessing_setup():69] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2022-03-21 11:44:16,368 INFO    MainThread:34453 [backend.py:ensure_launched():123] starting backend process...
+2022-03-21 11:44:16,375 INFO    MainThread:34453 [backend.py:ensure_launched():127] started backend process with pid: 34919
+2022-03-21 11:44:16,377 INFO    MainThread:34453 [wandb_init.py:init():421] backend started and connected
+2022-03-21 11:44:16,380 INFO    MainThread:34453 [wandb_init.py:init():461] updated telemetry
+2022-03-21 11:44:16,380 INFO    MainThread:34453 [wandb_init.py:init():480] communicating current version
+2022-03-21 11:44:17,327 INFO    MainThread:34453 [wandb_init.py:init():485] got version response upgrade_message: "wandb version 0.12.11 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-03-21 11:44:17,327 INFO    MainThread:34453 [wandb_init.py:init():493] communicating run to backend with 30 second timeout
+2022-03-21 11:44:18,340 INFO    MainThread:34453 [wandb_init.py:init():518] starting run threads in backend
+2022-03-21 11:44:18,397 INFO    MainThread:34453 [wandb_run.py:_console_start():1476] atexit reg
+2022-03-21 11:44:18,398 INFO    MainThread:34453 [wandb_run.py:_redirect():1339] redirect: SettingsConsole.REDIRECT
+2022-03-21 11:44:18,398 INFO    MainThread:34453 [wandb_run.py:_redirect():1344] Redirecting console.
+2022-03-21 11:44:18,398 INFO    MainThread:34453 [redirect.py:install():213] install start
+2022-03-21 11:44:18,398 INFO    MainThread:34453 [redirect.py:install():228] install stop
+2022-03-21 11:44:18,398 INFO    MainThread:34453 [redirect.py:install():213] install start
+2022-03-21 11:44:18,398 INFO    MainThread:34453 [redirect.py:install():228] install stop
+2022-03-21 11:44:18,399 INFO    MainThread:34453 [wandb_run.py:_redirect():1390] Redirects installed.
+2022-03-21 11:44:18,399 INFO    MainThread:34453 [wandb_init.py:init():542] run started, returning control to user process
+2022-03-21 11:44:21,127 INFO    MainThread:34453 [wandb_setup.py:_flush():69] setting env: {'project': 'nyc_airbnb', 'run_group': 'development'}
+2022-03-21 11:44:21,128 WARNING MainThread:34453 [wandb_setup.py:_flush():69] could not save program above cwd: /Users/hyacinthampadu/miniforge3/envs/mlflow-d1fd4b13aac386abe6aa5a2ada1ca11214902ce4/bin/pytest
+2022-03-21 11:44:21,128 INFO    MainThread:34453 [wandb_setup.py:_flush():69] setting login settings: {}
+2022-03-21 11:44:21,128 INFO    MainThread:34453 [wandb_init.py:_log_setup():334] Logging user logs to /Users/hyacinthampadu/Documents/NEW_project_2/nd0821-c2-build-model-workflow-starter/src/data_check/wandb/run-20220321_114421-f0awqk6b/logs/debug.log
+2022-03-21 11:44:21,128 INFO    MainThread:34453 [wandb_init.py:_log_setup():335] Logging internal logs to /Users/hyacinthampadu/Documents/NEW_project_2/nd0821-c2-build-model-workflow-starter/src/data_check/wandb/run-20220321_114421-f0awqk6b/logs/debug-internal.log
+2022-03-21 11:44:21,128 INFO    MainThread:34453 [wandb_init.py:init():367] calling init triggers
+2022-03-21 11:44:21,128 INFO    MainThread:34453 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2022-03-21 11:44:21,128 INFO    MainThread:34453 [wandb_init.py:init():413] wandb.init() called when a run is still active
+2022-03-21 11:44:23,739 INFO    MainThread:34453 [wandb_run.py:_atexit_cleanup():1446] got exitcode: 0
+2022-03-21 11:44:23,739 INFO    MainThread:34453 [wandb_run.py:_restore():1418] restore
+2022-03-21 11:44:23,739 INFO    MainThread:34453 [redirect.py:uninstall():232] uninstall start
+2022-03-21 11:44:23,740 INFO    MainThread:34453 [redirect.py:_stop():287] _stop: stdout
+2022-03-21 11:44:23,740 INFO    MainThread:34453 [redirect.py:_stop():293] _stop closed: stdout
+2022-03-21 11:44:23,740 INFO    stdout    :34453 [redirect.py:_pipe_relay():129] relay done saw last write: stdout
+2022-03-21 11:44:23,741 INFO    stdout    :34453 [redirect.py:_pipe_relay():145] relay done done: stdout
+2022-03-21 11:44:23,741 INFO    MainThread:34453 [redirect.py:_stop():299] _stop joined: stdout
+2022-03-21 11:44:23,742 INFO    MainThread:34453 [redirect.py:_stop():301] _stop rd closed: stdout
+2022-03-21 11:44:23,742 INFO    MainThread:34453 [redirect.py:uninstall():236] uninstall done
+2022-03-21 11:44:23,742 INFO    MainThread:34453 [redirect.py:uninstall():232] uninstall start
+2022-03-21 11:44:23,742 INFO    MainThread:34453 [redirect.py:_stop():287] _stop: stderr
+2022-03-21 11:44:23,742 INFO    MainThread:34453 [redirect.py:_stop():293] _stop closed: stderr
+2022-03-21 11:44:23,743 INFO    stderr    :34453 [redirect.py:_pipe_relay():129] relay done saw last write: stderr
+2022-03-21 11:44:23,743 INFO    stderr    :34453 [redirect.py:_pipe_relay():145] relay done done: stderr
+2022-03-21 11:44:23,743 INFO    MainThread:34453 [redirect.py:_stop():299] _stop joined: stderr
+2022-03-21 11:44:23,743 INFO    MainThread:34453 [redirect.py:_stop():301] _stop rd closed: stderr
+2022-03-21 11:44:23,743 INFO    MainThread:34453 [redirect.py:uninstall():236] uninstall done
+2022-03-21 11:44:24,277 INFO    MainThread:34453 [wandb_run.py:_wait_for_finish():1568] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1063
+  total_bytes: 1063
+}
+
+2022-03-21 11:44:26,284 INFO    MainThread:34453 [wandb_run.py:_wait_for_finish():1568] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 1063
+  total_bytes: 1892
+}
+
+2022-03-21 11:44:28,294 INFO    MainThread:34453 [wandb_run.py:_wait_for_finish():1568] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 1892
+  total_bytes: 1892
+}
+
+2022-03-21 11:44:29,392 INFO    MainThread:34453 [wandb_run.py:_show_files():1790] logging synced files
