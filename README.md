@@ -14,4 +14,5 @@
 
 - [@JoAmps](https://www.github.com/JoAmps)
 
+![Certificate](https://github.com/JoAmps/JoAmps-Udacity-Machine-learning-Devops-Engineer-Nanodegree-MLOPS-/blob/main/my%20certificate.png)
 
