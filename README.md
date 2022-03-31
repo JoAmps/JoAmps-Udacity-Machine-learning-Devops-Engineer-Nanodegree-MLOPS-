@@ -10,6 +10,8 @@
 ### Automated model scoring and monitoring:
 #### This course taught me how to automate the devops processes required to score and re-deploy my ML models. I learnt how to automate model training and deployment. I was taught how to set up regular scoring processes to be performed after model deployment, and also learnt to reason carefully about model drift, and whether models need to be retrained and re-deployed. I learnt to diagnose operational issues with models, including data integrity and stability problems, timing problems, and dependency issues. Finally, I learnt to set up automated reporting with API’s.
 
+### PS: I wrote about my experience on the course in this article here --> https://medium.com/@ampaduh/my-experience-in-the-udacity-machine-learning-devops-mlops-nano-degree-14be947f2df8
+
 ## Authors
 
 - [@JoAmps](https://www.github.com/JoAmps)
